@@ -19,8 +19,7 @@ This project analyzes supply chain data from the Olist marketplace to identify o
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard/Screenshot 2026-03-16 163406.png)
-
+![Dashboard](dashboard/dashboard_preview.png)
 
 ---
 
